@@ -1,5 +1,7 @@
-created a rock paper scissors game in java
-Game is played between you vs computer
+created a rock paper scissors game in java.
+
+Game is played between you vs computer.
+
 Whoever gets first 5 points wins the match.
 
 
