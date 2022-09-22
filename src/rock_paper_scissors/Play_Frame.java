@@ -150,7 +150,7 @@ public class Play_Frame extends javax.swing.JFrame {
         
         if(your_wins == 5 || computer_wins == 5)
         {
-            int yes_no = JOptionPane.showConfirmDialog(null, "Play a New Partie", "Play Again", JOptionPane.YES_NO_OPTION);
+            int yes_no = JOptionPane.showConfirmDialog(null, "Play a New Game", "Play Again", JOptionPane.YES_NO_OPTION);
             if(yes_no == 0)// yes == 0
             {
                 jLabel_Computer.setIcon(null);
